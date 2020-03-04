@@ -1,0 +1,9 @@
+<?php
+/**
+ * Created by Da4er
+ */
+define('PATH', dirname(__DIR__));
+require PATH.'/lib/mysql.class.php';
+require PATH.'/lib/func.php';
+
+?>
